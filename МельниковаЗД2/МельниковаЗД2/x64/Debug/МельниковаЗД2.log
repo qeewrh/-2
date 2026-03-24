@@ -1,0 +1,19 @@
+﻿  Archive.cpp
+  Date.cpp
+C:\Users\PC23\Desktop\УП 01.01 Мельникова\Задание 2\МельниковаЗД2\МельниковаЗД2\Date.cpp(2,9): warning C4005: _CRT_SECURE_NO_WARNINGS: изменение макроопределения
+      C:\Users\PC23\Desktop\УП 01.01 Мельникова\Задание 2\МельниковаЗД2\МельниковаЗД2\Date.cpp(2,9):
+      "_CRT_SECURE_NO_WARNINGS" ранее объявлен в командной строке
+  
+  Directory.cpp
+  Exceptions.cpp
+  File.cpp
+  Logger.cpp
+C:\Users\PC23\Desktop\УП 01.01 Мельникова\Задание 2\МельниковаЗД2\МельниковаЗД2\Logger.cpp(2,9): warning C4005: _CRT_SECURE_NO_WARNINGS: изменение макроопределения
+      C:\Users\PC23\Desktop\УП 01.01 Мельникова\Задание 2\МельниковаЗД2\МельниковаЗД2\Logger.cpp(2,9):
+      "_CRT_SECURE_NO_WARNINGS" ранее объявлен в командной строке
+  
+  main.cpp
+  Resource.cpp
+  SortComparator.cpp
+  Создание кода...
+  МельниковаЗД2.vcxproj -> C:\Users\PC23\Desktop\УП 01.01 Мельникова\Задание 2\МельниковаЗД2\x64\Debug\МельниковаЗД2.exe
